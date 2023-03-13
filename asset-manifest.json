@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Food-Takeout/static/css/main.a45b7ef8.css",
+    "main.js": "/Food-Takeout/static/js/main.f571de66.js",
+    "static/js/787.7c637b41.chunk.js": "/Food-Takeout/static/js/787.7c637b41.chunk.js",
+    "static/media/Buffet.jfif": "/Food-Takeout/static/media/Buffet.be59bd96a2385454570b.jfif",
+    "index.html": "/Food-Takeout/index.html",
+    "main.a45b7ef8.css.map": "/Food-Takeout/static/css/main.a45b7ef8.css.map",
+    "main.f571de66.js.map": "/Food-Takeout/static/js/main.f571de66.js.map",
+    "787.7c637b41.chunk.js.map": "/Food-Takeout/static/js/787.7c637b41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a45b7ef8.css",
+    "static/js/main.f571de66.js"
+  ]
+}
