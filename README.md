@@ -5,6 +5,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+## `npm install`
+Using Code Editor(Preferably Microsoft Visual Studio Code),open the extracted folder,enter into the project directory i.e.
+`cd ${Filename}` (In this case "Food-Takeout-main")
+npm install
+Enter `npm install` after entering the project file.
 
 ### `npm start`
 
